@@ -1,0 +1,16 @@
+학위 논문
+thesis
+dissertation
+
+학술 논문
+treatise
+research paper
+monograph
+
+학술지 (journal)
+screening -> peer review
+
+학술대회지 (conference paper)
+아카이브 (arXiv)
+
+학위 논문: 교육 학위를 취득하려고 제출하는 논문
